@@ -14,24 +14,8 @@ The solution goes beyond just modeling and focuses on the **complete ML lifecycl
 - Class imbalance handling
 - Threshold optimization
 - Model explainability using SHAP
-- Deployment with Streamlit
 
 Users can input customer information and receive a **real-time churn probability prediction along with model insights**.
-
----
-
-## 🎥 Live Project Walkthrough
-
-👉 https://www.youtube.com/watch?v=RKXDvzcKWL0
-
----
-
-## 🚀 Live Demo
-
-Streamlit App:  
-https://customer-churn-prediction-lr-rf.streamlit.app/
-
----
 
 ## 📊 Dataset
 
@@ -191,17 +175,7 @@ Based on the model insights:
 - Encourage **long-term contracts** via incentives  
 - Offer **bundled services** to improve retention  
 - Provide **targeted offers to high-paying customers**  
-- Focus retention strategies on **new customers with low tenure**  
-
----
-
-## 🌐 Deployment
-
-The model is deployed using **Streamlit**, allowing users to:
-
-- Input customer data  
-- Get churn probability instantly  
-- View model explanations using SHAP  
+- Focus retention strategies on **new customers with low tenure**
 
 ---
 
